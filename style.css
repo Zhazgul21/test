@@ -1,0 +1,69 @@
+@import './reset';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+
+
+
+.card{
+    width: 385px;
+    height: 650px;
+
+}
+.phone{
+    width: 346px;
+    height: 327px;
+}
+.newPrice {
+    font-family: Montserrat;
+    font-weight: 600px;
+    font-size: 22px;
+    line-height: 26.82px;
+    color: #04C000;
+}
+
+.prePrice{
+    font-family: Montserrat;
+    font-weight: 500px;
+    font-size: 17px;
+    line-height: 20.72px;
+    color:#AEAEAE;
+    text-decoration: line-through;
+}
+.describ{
+    font-family: Montserrat;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 21.94px;
+    color: #333333;
+}
+.rait_icon{
+    width: 21.01px;
+    height: 20.25px;
+    color: #FBD300;
+}
+.rait_num{
+    margin-right: 30px;
+    display: inline-block;
+    font-family: Montserrat;
+    font-weight: 600px;
+    font-size: 17px;
+    list-style: 20.72px;
+    color: #AEAEAE;
+}
+.rev_icon{
+    width: 20px;
+    height: 20px;
+    color: #AEAEAE;
+
+}
+.rev_num{
+    display: inline-block;
+    font-family: Montserrat;
+    font-weight: 600px;
+    font-size: 17px;
+    list-style: 20.72px;
+    color: #AEAEAE;
+}
+.raiting{
+   display: inline;
+}
