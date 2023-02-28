@@ -8,10 +8,12 @@
     width: 385px;
     height: 650px;
 
+
 }
 .phone{
     width: 346px;
     height: 327px;
+    border-radius: 10px;
 }
 .newPrice {
     font-family: Montserrat;
@@ -66,4 +68,39 @@
 }
 .raiting{
    display: inline;
+}
+button{
+    border-radius: 10px;
+    padding: 14px 18px;
+}
+.basket{
+    background-color: #F82D46;
+    border-color: #F82D46;
+    color: #ffff;
+    font-weight: 600px;
+    font-size: 18px;
+    line-height: 21.94px;
+    font-family: Montserrat;
+}
+.save{
+    background-color: #F5F5F5;
+    color: #333333;    
+    font-weight: 400;
+    line-height: 21.94px;
+    font-family: Montserrat;
+    font-size: 18px;
+    margin-left: 30px;
+    
+}
+.delivery_img{
+    width: 30px;
+    height: 30px;
+    color: #000AFF;
+}
+
+.delivery{
+    font-weight: 200;
+    line-height: 19.5px;
+    font-family: Montserrat;
+    font-size: 16px;
 }
